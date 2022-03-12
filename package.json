@@ -1,0 +1,20 @@
+{
+  "name": "adobe-acrobat-sign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "adobe-sign.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hryoshihara0692/Adobe-acrobat-sign.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hryoshihara0692/Adobe-acrobat-sign/issues"
+  },
+  "homepage": "https://github.com/hryoshihara0692/Adobe-acrobat-sign#readme"
+}

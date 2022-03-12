@@ -1,3 +1,2 @@
-function doPost(e) {
-    return payload;
-}
+'use strict';
+console.log('hello, world!');
